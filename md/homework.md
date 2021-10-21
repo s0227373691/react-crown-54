@@ -148,3 +148,9 @@ function App_54() {
 
 export default App_54;
 ```
+
+## Q8
+
+![](https://i.imgur.com/9mnZxmt.jpg)
+![](https://i.imgur.com/Tfl1qwN.png)
+[Heroku app URL](https://heroku-crown54.herokuapp.com/api_54/category_54)
