@@ -6,7 +6,7 @@ import menuItem_54 from "./menu-item-datas";
 const Directory_54 = () => {
   return (
     <div>
-      <div class="directory-menu">
+      <div className="directory-menu">
         {menuItem_54.map((item) => {
           const { id, name, remoteUrl, size } = item;
           return (
